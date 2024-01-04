@@ -2,40 +2,40 @@
 
 
 # Display name
-title: Yue Lin
+title: Chengyu Fu
 
 # Full name
-first_name: Yue
-last_name: Lin
+first_name: Chengyu
+last_name: Fu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of California, Berkeley
-    url: https://polisci.berkeley.edu/people/person/yue-florence-lin
+  - name: Harvard University
+    url: https://www.gov.harvard.edu/directory/chengyu-fu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Ph.D. student in Political Science at the University of California, Berkeley.
+bio: I am a Ph.D. Candidate in Government at Harvard University.
 
 # Interests to show in About widget
 interests:
-  - Multinational Corporation 
-  - Geopolitical Risk and International Tension
-  - Foreign Lobbying in the United States
+  - Political economy of corruption and governance
+  - Political economy of development
+  - Chinese politics
 
 # Education to show in About widget
 education:
   courses:
     - course: Ph.D. in Political Science (expected 2026)
-      institution: University of California, Berkeley 
-    - course: M.A. in Political Science (2023)
-      institution: University of California, Berkeley 
-    - course: M.A. in International Economics, International Relations (area concentration in China) (2020)
-      institution: Johns Hopkins University
-    - course: B.Soc.Sci. in Government and International Relations (First Class Honors, 2018)
-      institution: Hong Kong Baptist University 
+      institution: Harvard University
+    - course: M.A. in Political Science (2022)
+      institution: Harvard University
+    - course: M.A. in Political Science (2020)
+      institution: Duke University
+    - course: B.A. in Politics and Public Administration (2018)
+      institution: Renmin University of China
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -44,19 +44,16 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:florenceyuelin@berkeley.edu
+    link: mailto:cfu@g.harvard.edu
     # link: '/#contact'
   - icon: github
     icon_pack: fab
-    link: https://github.com/florenceyuelin
+    link: https://github.com/chengyufu
     display:
       header: true
-  - icon: linkedin
-    icon_pack: fab
-    link: https://www.linkedin.com/in/yue-lin-08b212138/
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/florenceyuelin
+    link: https://twitter.com/chengyu_fu
     label: Follow me on Twitter
 
 # Highlight the author in author lists? (true/false)
@@ -65,6 +62,4 @@ highlight_name: true
 
 **About me**
 
-Welcome! I am a Ph.D. student in the Travers Department of Political Science at the [University of California, Berkeley](https://polisci.berkeley.edu/), with a [Designated Emphasis](https://n2pe.berkeley.edu/people/) on Political Economy. My main research interests cover international tension, multinational corporation, foreign lobbying, and computational social sciences. Currently, I work on a project that explores the interplay among home countries, host nations, and firms in an era marked by global economic and security interconnections. My research has received funding from [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) and [Network for a New Political Economy](https://n2pe.berkeley.edu/). 
-
-Prior to doctoral studies, I gained experience at the [American Enterprise Institute](https://www.aei.org/), the [Center for Strategic and International Studies](https://www.csis.org/), and the [Institute of New Structural Economics](https://www.nse.pku.edu.cn/en/) at [Peking University](https://english.pku.edu.cn/). I earned my first M.A. in International Economics and International Relations (with an area concentration of China) from Johns Hopkins University, Paul H. Nitze School of Advanced International Studies, second M.A. in Political Science from UC Berkeley, and Bachelor of Social Sciences in Government and International Relations from Hong Kong Baptist University, United International College.
+Welcome! I am a Ph.D. Candidate in the Department of Government at [Harvard University](https://www.gov.harvard.edu/). My main research interests cover the political economy of corruption, governance, and development. My research has received funding from [Berkeley Economy and Society Initiative](https://besi.berkeley.edu/) and [Network for a New Political Economy](https://n2pe.berkeley.edu/). Prior to doctoral studies, I earned my M.A. in Political Science from Duke University, and B.A. in Politics and Public Administration from Renmin University of China.

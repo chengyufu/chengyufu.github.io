@@ -23,7 +23,7 @@ _Department of Government, Harvard University_
 <ul>
   <li>Foundations of Comparative Politics <a href="/files/ps5.pdf">[syllabus]</a></li>
     <ul>
-      <li>Teaching Fellow (with <a href="https://scholar.harvard.edu/yuhuawang/home">Yuhua Wang</a> and <a href="https://www.gov.harvard.edu/directory/george-soroka/">George Soroka)  </li>
+      <li>Teaching Fellow (with <a href="https://scholar.harvard.edu/yuhuawang/home">Yuhua Wang</a> and <a href="https://www.gov.harvard.edu/directory/george-soroka/">George Soroka</a>)  </li>
     </ul>
   </li>
     

@@ -4,8 +4,8 @@ theme: "starter-hugo-academic"
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yue Lin # Website name
-baseURL: 'https://florenceyuelin.github.io/' # Website URL
+title: Chengyu Fu # Website name
+baseURL: 'https://chengyufu.github.io/' # Website URL
 
 ############################
 ## LANGUAGE

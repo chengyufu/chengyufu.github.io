@@ -16,43 +16,29 @@ weight = 40
 #One way we could make this different is to present the places of teaching as a smaller list with a click through to course descriptions and why we were teaching at that location. More in line with the project presentation line of reasoning. If we did each teaching engagement independently like a talk, and then aggregate them, then we could use schema.org metadata to describe each teaching engagement.
 
 +++
-<h2>1. International Relations</h2>
+<h2>1. Comparative Politics</h2>
 
-_Department of Political Science, UC Berkeley_
+_Department of Government, Harvard University_
 
 <ul>
-  <li>Introduction to International Relations <a href="/files/ps5.pdf">[syllabus]</a></li>
+  <li>Foundations of Comparative Politics <a href="/files/ps5.pdf">[syllabus]</a></li>
     <ul>
-      <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/amy-gurowitz">Amy Gurowitz</a>)  </li>
+      <li>Teaching Fellow (with <a href="https://scholar.harvard.edu/yuhuawang/home">Yuhua Wang</a> and <a href="https://www.gov.harvard.edu/directory/george-soroka/">George Soroka)  </li>
     </ul>
   </li>
-    <li>International Political Economy <a href="https://polisci.berkeley.edu/course/international-political-economy-1">[course link]</a>   
-    <ul>
-      <li>Tutor</li>
-    </ul>
-  </li>
+    
 </ul>
 
 
-<h2>2. Quantitative Methods</h2>
+<h2>2. Chinese Politics</h2>
 
-_Department of Political Science, UC Berkeley_
+_Department of Government, Harvard University_
 
 <ul>
-  <li>Introduction To Empirical Analysis and Quantitative Methods <a href="/files/ps3.pdf">[syllabus]</a></li>
+  <li>Government and Politics of China <a href="/files/ps3.pdf">[syllabus]</a></li>
     <ul>
-      <li>Graduate Student Instructor (with <a href="https://polisci.berkeley.edu/people/person/david-edward-broockman">David Broockman</a>); <a href="https://github.com/florenceyuelin/PS3-Section-Lab">Lab</a> Instructor; Tutor </li>
+      <li>Teaching Fellow (with <a href="https://scholar.harvard.edu/yuhuawang/home">Yuhua Wang</a> </li>
 <!-- <li> Course evaluation: <a href="/files/eval3.pdf">Section 1</a>  <a href="/files/eval4.pdf"> 2</a></li> --> 
-    </ul>
-  </li>
-</ul>
-
-_School of Advanced International Studies, Johns Hopkins University_
-
-<ul>
-  <li>Statistical Methods for Business and Economics (graduate-level) <a href="/files/harrington_stats_syllabus.pdf">[syllabus]</a></li>
-    <ul>
-      <li>Graduate Teaching Assistant (with <a href="https://sais.jhu.edu/users/jharrin1">John Harrington</a>)</li>
     </ul>
   </li>
 </ul>

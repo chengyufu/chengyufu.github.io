@@ -19,7 +19,7 @@ marketing:
     local_business_type: ''
     org_name: ''
     description: 'Personal page'
-    twitter: 'florenceyuelin'
+    twitter: 'chengyu_fu'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Yue Lin. This work is licensed under {license}.'
+    notice: '© {year} Chengyu Fu. This work is licensed under {license}.'
     license:
       enable: true
       allow_derivatives: true
@@ -74,7 +74,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/florenceyuelin/florenceyuelin.github.io'
+    url: 'https://github.com/chengyufu/chengyufu.github.io'
     content_dir: content
     branch: main
   avatar:

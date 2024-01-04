@@ -1,0 +1,230 @@
+\documentclass[margin,line]{res}
+\usepackage{fancyhdr} % Custom headers and footers
+\usepackage{ifthen}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\pagestyle{fancy}
+\fancyhf{} % sets both header and footer to nothing
+\renewcommand{\headrulewidth}{0pt}
+\fancyfoot[C]{}
+\fancyfoot[R]{} 
+
+\oddsidemargin -.5in
+\evensidemargin -.43in
+\textwidth=5.8in
+\topmargin=-22pt
+\textheight=709pt
+\itemsep=0in
+\parsep=0in
+% if using pdflatex:
+%\setlength{\pdfpagewidth}{\paperwidth}
+%\setlength{\pdfpageheight}{\paperheight} 
+
+\newenvironment{list1}{
+  \begin{list}{\ding{113}}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.17in}}}{\end{list}}
+\newenvironment{list2}{
+  \begin{list}{$\bullet$}{%
+      \setlength{\itemsep}{0in}
+      \setlength{\parsep}{0in} \setlength{\parskip}{0in}
+      \setlength{\topsep}{0in} \setlength{\partopsep}{0in} 
+      \setlength{\leftmargin}{0.43in}}}{\end{list}}
+
+\def\changemargin#1#2{\list{}{\rightmargin#2\leftmargin#1}\item[]}
+\let\endchangemargin=\endlist
+
+\definecolor{darkblue}{rgb}{0.0, 0.0, 0.55}
+
+\begin{document}
+\name{\large YUE LIN\vspace*{.1in}}
+
+\begin{resume}
+	
+\section{\sc Contact}
+\begin{tabular}{@{}p{3.8in}p{3in}@{}}
+	Travers Department of Political Science & \textcolor{darkblue}{\href{mailto:florenceyuelin@berkeley.edu}{florenceyuelin@berkeley.edu}}\\
+	210 Social Sciences Building &
+	 \textcolor{darkblue}{\href{florenceyuelin.github.io}{http://florenceyuelin.github.io}}\\ 
+	Berkeley, CA 94720               
+\end{tabular}
+
+\section{\sc Education}
+
+{\bf University of California, Berkeley}
+\vspace{-.33cm}
+
+\hspace{1.5em}{Ph.D., Political Science} \hfill{(expected) 2027} \\
+\vspace*{-.13in}  
+\begin{list2}
+	\item Fields: International Relations, Methodology \& Formal Theory, \\
+	\hspace*{3.3em}{Political Economy (Designated Emphasis)}
+	\item Advisor: Ryan Brutger
+\end{list2}
+
+\vspace{-.33cm}
+\hspace{1.5em}{M.A., Political Science} \hfill{2023} \\
+
+\vspace{-.33cm}
+{\bf Johns Hopkins University}
+
+\vspace{-.33cm}
+
+\hspace{1.5em}{M.A., International Economics and International Relations} \hfill{2020} \\
+\vspace*{-.13in}  
+
+{\bf Hong Kong Baptist University}
+%{\em Department of Politics and Administration, School of International Studies} 
+
+\vspace{-.33cm}
+\hspace{1.5em}{B.Soc.Sci., Government and International Relations ({\em {First Class Honors}})} \hfill{2018}\\
+\vspace*{-.13in}  
+
+\section{\sc Training}
+{\bf Syracuse University}
+
+\vspace{-.33cm}
+\hspace{1.5em}{The Institute for Qualitative and Multi-Method Research (IQMR)} \hfill{2022}
+
+{\bf University of Michigan}
+
+\vspace{-.33cm}
+\hspace{1.5em}{Inter-university Consortium for Political and Social Research (ICPSR)} \hfill{2019}
+
+\section{\sc Working Papers}
+Surviving under Pressure: How Multinational Corporations Redesign Regulatory Outcomes
+
+When Do Foreign Investment Fuel Social Conflicts in Africa?
+\vspace*{.05in}
+\begin{list2}
+\item Book chapter (under contract with Routledge) in \emph {Legalization as Practice: The Legalization of Human Rights Laws Prohibiting Torture and Other Forms of State-Sanctioned Violence in Africa}, edited by Stacey M. Mitchell and Veraline Nchotu
+\end{list2}
+
+Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment
+\vspace*{.05in}
+
+\section{\sc Teaching and Mentorship}
+{Introduction To Empirical Analysis And Quantitative Methods} 
+
+\vspace{-.35cm}
+{\em Graduate Student Instructor} (with David Broockman) \hfill {2023}\\
+
+\vspace{-.4cm}
+{Introduction to International Relations} 
+
+\vspace{-.35cm}
+{\em Graduate Student Instructor} (with Amy Gurowitz) \hfill {2022}\\
+
+\vspace{-.4cm}
+{Undergraduate Fellowship in International Studies}, Institute of International Studies 
+
+\vspace{-.35cm}
+{\em Graduate Student Mentor} \hfill {2022-2023}\\
+\vspace*{-.13in}  
+
+\section{\sc Professional Experience}
+
+{\bf UC Berkeley} \hfill {Berkeley, CA} 
+
+\vspace{-.35cm}
+{APEC Study Center}, {\em Project Director} \hfill {2021-2022}
+
+\vspace{-.2cm}
+{\bf Peking University} \hfill {Beijing, China} 
+
+\vspace{-.35cm}
+{Institute of New Structural Economics}, {\em Research Assistant} \hfill {2020}
+
+\vspace{-.2cm}
+{\bf Center for Strategic and International Studies} \hfill {Washington, DC}
+
+\vspace{-.35cm}
+{Trustee Chair in Chinese Business and Economics}, {\em Research Intern} \hfill {2021}
+
+\vspace{-.2cm}
+{\bf American Enterprise Institute}\hfill {Washington, DC}
+
+\vspace{-.35cm}
+{Department of Demographics and Political Economy}, {\em Research Intern} \hfill {2021}
+
+\section{\sc Awards} 
+{Political Economy of Technology Research Grant, UC Berkeley, {\bf\$8,000}} \hfill {2023}
+
+\vspace*{-3mm}
+{Harold L. Wilensky Fellowship in Political Science, UC Berkeley}  \hfill {2023}
+
+\vspace*{-3mm}
+{China Hands ``10 Under 25," Yale University}  \hfill {2023}
+
+\vspace*{-3mm}
+{Political Economy Conference Travel Grant, UC Berkeley, {\bf\$1,370}} \hfill {2023}
+
+\vspace*{-3mm}
+{Grant for Emerging Scholars, International Studies Association, {\bf\$700}} \hfill {2022}
+
+\vspace*{-3mm}
+{Department Award for Methodology training, UC Berkeley, \bf{\$2,600}} \hfill {2022}
+
+\vspace*{-3mm}
+{Travel Grant, American Political Science Association, {\bf\$250}} \hfill {2021}
+
+\vspace*{-3mm}
+{Dean's Scholarship, Johns Hopkins University, \bf{\$7,500}} \hfill {2019-2020}
+
+\vspace*{-3mm}
+{Runner-up in Consulting Case Competition, Deloitte} \hfill {2019}
+
+\vspace*{-3mm}
+{Best Academic Award, Hong Kong Baptist University (selection rate: 1/800)} \hfill {2018}
+
+\vspace*{-3mm}
+{First Class Award, Hong Kong Baptist University, \bf{$\approx$\$888}} \hfill  {2016-2018}
+
+\vspace*{-3mm}
+{National Grants, Chinese Ministry of Education, \bf{$\approx$\$444}} \hfill {2017} 
+
+\vspace*{-3mm}
+{National Scholarship, Chinese Ministry of Education, {\bf{$\approx$\$1,185}} (selection rate: 1/2000)} \hfill {2016}
+
+\vspace*{-3mm}
+{Fung Sun Kwan Scholarship, Fung Sun Kwan Foundation, \bf{$\approx$\$1,276}} \hfill {2016}
+
+\vspace*{-3mm}
+{National Endeavor Scholarship, Chinese Ministry of Education, \bf{$\approx$\$740}} \hfill {2015}
+
+\section{\sc Conferences}
+
+American Political Science Association, Annual Meeting \hfill{2021, 2022 (declined), 2023}
+
+\vspace*{-3mm}
+Midwest Political Science Association, Annual Meeting \hfill{2021, 2022 (declined)}
+
+\vspace*{-3mm}
+International Studies Association, Annual Meeting \hfill{2022, 2023}
+
+\vspace*{-3mm}
+Graduate Students in International Political Economy, First Conference \hfill{2023}
+
+\vspace*{-3mm}
+Pre-Conference Workshop for Underrepresented Scholars \hfill{2022}
+
+\vspace*{-3mm}
+Chinese Political Science and International Relations Academic Community Conference \hfill{2021}
+
+
+\section {\sc Reviewer}
+
+{\em World Trade Review}
+
+\section{\sc Skills} 
+
+Software: R, Python, Stata, ArcGIS, Bloomberg Terminal
+
+\vspace*{-3mm}
+Languages: Mandarin, English, French 
+\end{resume}
+
+\end{document}

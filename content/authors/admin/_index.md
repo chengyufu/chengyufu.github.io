@@ -34,7 +34,7 @@ education:
       institution: Harvard University
     - course: M.A. in Political Science (2020)
       institution: Duke University
-    - course: B.A. in Politics and Public Administration (2018)
+    - course: B.A. in Politics and Public Administration (with distinction, 2018)
       institution: Renmin University of China
 
 # Social/Academic Networking

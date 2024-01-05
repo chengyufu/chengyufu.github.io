@@ -64,4 +64,4 @@ Welcome! I am a Ph.D. Candidate in the Department of Government at [Harvard Univ
 
 At Harvard, I am also a [Desmond and Whitney Shum Fellow](https://fairbank.fas.harvard.edu/person/chengyu-fu/) at the Fairbank Center for Chinese Studies and a [Graduate Student Affliate](https://wcfia.harvard.edu/people/chengyu-fu) with the Weatherhead Center for International Affairs. Prior to doctoral studies, I earned my M.A. in Political Science from [Duke University](https://polisci.duke.edu/), and B.A. in Politics and Public Administration (with distinction) from [Renmin University of China](http://sis.ruc.edu.cn/).
 
-You can reach me at mailto:cfu@g.harvard.edu.
+You can reach me at [cfu@g.harvard.edu](mailto:cfu@g.harvard.edu).

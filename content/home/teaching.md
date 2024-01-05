@@ -18,7 +18,7 @@ weight = 40
 +++
 <h2>1. Comparative Politics</h2>
 
-_Department of Government, Harvard University_
+_Department of Government, Harvard University; Harvard Extension School_
 
 <ul>
   <li>Foundations of Comparative Politics <a href="/files/gov20.pdf">[syllabus1]</a> <a href="/files/gove20.pdf">[syllabus2]</a> </li>

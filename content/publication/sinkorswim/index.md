@@ -1,11 +1,11 @@
 ---
-title: "Sink or Swim Together? How the Rule of Law Affects Cross-Border Investment"
-date: 2023-05-13
-authors: ["**Yue Lin**"]
+title: "Political Corruption and Voter Turnout: The Effects of Perception, Experience, and Purchases"
+date: 2023-11-15
+authors: ["**Chengyu Fu**"]
 publication_types: ["3"]
-abstract: "International investment has facilitated economic cooperation among states and multinational corporations (MNCs), yet it also suffers from regulatory uncertainties and institutional hazards. How does the rule of law in targeted markets affect MNCs’ cross-border investment? I argue that the rule of law has differential effects on different types of investment. By offering favorable market entry conditions, host countries strategize investment laws to encourage both strategic and financial mergers and acquisitions (M&As), two prominent types of cross-border investment. Strategic M&As establish new global value chains (GVCs) or strengthen existing ones that incorporate countries into collaborative economic activities, which are rarely observed in the latter that purely seeks for profit accumulation. Moreover, law de jure and de facto have interaction effects on foreign M&As. Firms take into account not only the level of impartiality, friendliness, and maturity of investment laws, but also the quality of their implementation. What’s more, weak rule of law deters strategic M&As more than financial ones due to GVC linkages that transfer spillover effects to home countries. Based on data from the International Country Risk Guide and Capital IQ for 140 countries (2010-2021), I estimate how the rule of law affects different sorts of M&As. Built upon the Obsolescing Bargain Model, this paper revisits the differential impacts of law on MNCs’ transnational investment from a new perspective of GVC linkage. The study also calls for emerging markets or new democracies to improve institutional quality and law enforcement capacity for sustained global economic cooperation." 
+abstract: "Voter turnout reflects political participation in both democracies and autocracies, and corruption’s impact on turnout is a matter of long-term debate. Previous literature has addressed three major theories: the distrust theory, trade theory, and the removal theory. However, the empirical analysis of how corruption perceptions and activities affect voter turnout is limited, especially for authoritarian regimes. Based on village-level elections data in China, this paper finds: (1) citizen perceptions of corruption depress turnout by lowering interest in elections, which is inconsistent with the removal theory but shows that distrust in elections can be one of the mediators; (2) both corruption perceptions and experienced corruption can raise people’s concern about Chinese democracy and consequently depress turnout; this mediation analysis reveals that corruption influences turnout through dwindling trust in the regime; (3) electoral corruption increases turnout directly, which supports the trade theory. Overall, although corruption can directly “buy” votes, it may undermine voting by decreasing political trust in both elections and the regime." 
 featured: true
-publication: "Working Paper"
+publication: "Under Review"
 links:
   - icon_pack: fas
     icon: scroll

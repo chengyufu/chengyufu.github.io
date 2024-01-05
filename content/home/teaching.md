@@ -35,7 +35,7 @@ _Department of Government, Harvard University_
 _Department of Government, Harvard University_
 
 <ul>
-  <li>Government and Politics of China <a href="/files/ps3.pdf">[syllabus]</a></li>
+  <li>Government and Politics of China <a href="/files/1280.pdf">[syllabus]</a></li>
     <ul>
       <li>Teaching Fellow (with <a href="https://scholar.harvard.edu/yuhuawang/home">Yuhua Wang</a>) </li>
 <!-- <li> Course evaluation: <a href="/files/eval3.pdf">Section 1</a>  <a href="/files/eval4.pdf"> 2</a></li> --> 

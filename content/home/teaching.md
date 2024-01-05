@@ -49,7 +49,7 @@ _Department of Government, Harvard University_
 _Department of Government, Harvard University_
 
 <ul>
-  <li>Quantitative Social Science Methods II <a href="/files/ps3.pdf">[syllabus]</li>
+  <li>Quantitative Social Science Methods II <a href="/files/ps3.pdf">[syllabus]</a> </li>
     <ul>
       <li>Tutor</li>
     </ul>

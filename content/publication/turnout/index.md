@@ -10,5 +10,5 @@ links:
   - icon_pack: fas
     icon: scroll
     name: Link
-    url: ''
+    url: 'https://www.proquest.com/docview/2409703095?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses'
 ---

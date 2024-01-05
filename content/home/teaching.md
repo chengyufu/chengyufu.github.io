@@ -44,14 +44,14 @@ _Department of Government, Harvard University_
 </ul>
 
 
-<h2>3. Mentorship</h2>
+<h2>3. Quantitative Social Science</h2>
 
-_Institute of International Studies, UC Berkeley_
+_Department of Government, Harvard University_
 
 <ul>
-  <li>Undergraduate Fellowship in International Studies</li>
+  <li>Quantitative Social Science Methods II <a href="/files/ps3.pdf">[syllabus]</li>
     <ul>
-      <li><a href="https://iis.berkeley.edu/people/yue-lin">Graduate Student Mentor</a></li>
+      <li>Tutor</li>
     </ul>
   </li>
 </ul>

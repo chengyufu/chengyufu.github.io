@@ -46,11 +46,11 @@ social:
     icon_pack: fas
     link: mailto:cfu@g.harvard.edu
     # link: '/#contact'
-  - icon: github
-    icon_pack: fab
-    link: https://github.com/chengyufu
-    display:
-      header: true
+  # - icon: github
+  #  icon_pack: fab
+  #  link: https://github.com/chengyufu
+  #  display:
+  #    header: true
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/chengyu_fu

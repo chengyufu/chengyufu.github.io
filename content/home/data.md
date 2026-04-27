@@ -18,5 +18,5 @@ weight = 50
 +++
 <h2>Corruption</h2>
 
-_I am working on a database counting and measuring corruption cases in China._
+_My dissertation draws on an original database of approximately 120,000 criminal corruption cases in China from 2001 to 2023. It covers all major corruption offenses under Chinese criminal law: bribe-taking, bribe-giving, embezzlement, misappropriation of public funds, and abuse of power. To extract structured information from these semi-structured legal documents, I developed a Large Language Model-based extraction pipeline that parses all cases into (1) more than 380,000 individual corrupt events with their corruption dates, amounts, types, and related firms, and (2) 120,000 case-level data on defendant information including demographics, position, and sentence outcomes. I link these data to anti-corruption inspections and firm-level government procurement database. To my knowledge, this is the most comprehensive transaction-level corruption dataset assembled for any single country._
 

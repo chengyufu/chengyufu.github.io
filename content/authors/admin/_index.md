@@ -21,9 +21,12 @@ bio: I am a Ph.D. Candidate in Government at Harvard University.
 
 # Interests to show in About widget
 interests:
-  - Political economy of corruption and governance
-  - Political economy of development
-  - Chinese politics
+  - Nonmarket strategies
+  - Corruption and non-compliance
+  - Political connections
+  - Comparative corporate governance
+  - Text-as-data
+
 
 # Education to show in About widget
 education:
@@ -32,7 +35,7 @@ education:
       institution: Harvard University
     - course: M.A. in Political Science (2022)
       institution: Harvard University
-    - course: M.A. in Political Science (2020)
+    - course: M.A. in Political Science (Outstanding MA Thesis, 2020)
       institution: Duke University
     - course: B.A. in Politics and Public Administration (with distinction, 2018)
       institution: Renmin University of China
@@ -64,6 +67,6 @@ highlight_name: true
 
 Welcome! I am a Ph.D. Candidate in Government at [Harvard University](https://www.gov.harvard.edu/). My main research interests cover the political economy of corruption, governance, and development. My research has received funding from [American Political Science Association](https://www.apsanet.org/About/About-APSA), [Fairbank Center for Chinese Studies](https://fairbank.fas.harvard.edu/), [Harvard Asia Center](https://asiacenter.harvard.edu/), [Harvard Kennedy School](https://www.hks.harvard.edu/), [Institute for Humane Studies](https://www.theihs.org/), [Institute for Quantitative Social Science](https://www.iq.harvard.edu/), and [Weatherhead Center for International Affairs](https://wcfia.harvard.edu/). 
 
-At Harvard, I am a [Desmond and Whitney Shum Fellow](https://fairbank.fas.harvard.edu/person/chengyu-fu/) at the Fairbank Center for Chinese Studies, a [Graduate Student Affliate](https://wcfia.harvard.edu/people/chengyu-fu) with the Weatherhead Center for International Affairs, and a [Graduate Student Affliate](https://www.iq.harvard.edu/people/chengyu-fu) with the Institute for Quantitative Social Science. Prior to doctoral studies, I earned my M.A. in Political Science from [Duke University](https://polisci.duke.edu/), and B.A. in Politics and Public Administration (with distinction) from [Renmin University of China](http://sis.ruc.edu.cn/).
+At Harvard, I am a [Desmond and Whitney Shum Fellow](https://fairbank.fas.harvard.edu/person/chengyu-fu/) at the Fairbank Center for Chinese Studies, a [Graduate Student Affliate](https://wcfia.harvard.edu/people/chengyu-fu) with the Weatherhead Center for International Affairs, and a [Graduate Student Affliate](https://www.iq.harvard.edu/people/chengyu-fu) with the Institute for Quantitative Social Science. Prior to doctoral studies, I earned my M.A. in Political Science (awarded [Outstanding MA Thesis](https://polisci.duke.edu/news/year-review-awards-and-recognition-2019-2020)) from [Duke University](https://polisci.duke.edu/), and B.A. in Politics and Public Administration (with distinction) from [Renmin University of China](http://sis.ruc.edu.cn/).
 
 You can reach me at [cfu@g.harvard.edu](mailto:cfu@g.harvard.edu).

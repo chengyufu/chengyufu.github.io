@@ -1,1 +1,5 @@
 # Academic template
+
+```
+hugo server
+```
